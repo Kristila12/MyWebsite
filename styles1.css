@@ -39,6 +39,7 @@ h2 {
   font-size: 14;
   }
 footer {
+  margin:0;
   background-color: #99d98c;
   color: black;
   height: 30px;
