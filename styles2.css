@@ -1,0 +1,19 @@
+
+
+body {
+  background-color: #F0D9FF;
+  color: black;}
+hr {
+  background-color: #F0D9FF;
+  color: red;
+  width: 10%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;}
+
+footer {
+  background-color: #7F7C82;
+  color: white;
+  height: 30px;
+  justify-content:center;
+  text-align: center;}
